@@ -43,6 +43,7 @@ afterEvaluate {
                 artifactId = "MyVideoEditorModuleProject"
                 groupId = "com.github.TrueMuslimStudio"
                 version = "1.0.0"
+
             }
         }
     }
