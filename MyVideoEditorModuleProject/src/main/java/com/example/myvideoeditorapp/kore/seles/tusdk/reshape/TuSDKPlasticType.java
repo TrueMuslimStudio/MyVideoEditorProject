@@ -1,0 +1,31 @@
+// 
+// Decompiled by Procyon v0.5.36
+// 
+
+package com.example.myvideoeditorapp.kore.seles.tusdk.reshape;
+
+enum TuSDKPlasticType
+{
+    TuSDK_FOREHEAD_HEIGHT, 
+    TuSDK_FACE_SMALL, 
+    TuSDK_CHEEK_THIN, 
+    TuSDK_CHEEK_NARROW, 
+    TuSDK_CHEEKBONE_NARROW, 
+    TuSDK_CHEEKLOWERBONE_NARROW, 
+    TuSDK_BROW_THICKNESS, 
+    TuSDK_BROW_HEIGHT, 
+    TuSDK_EYE_ENLARGE, 
+    TuSDK_EYE_ANGLE, 
+    TuSDK_EYE_DISTANCE, 
+    TuSDK_EYE_HEIGHT, 
+    TuSDK_EYE_INNER_CONER, 
+    TuSDK_EYE_OUTER_CONER, 
+    TuSDK_NOSE_WIDTH, 
+    TuSDK_NOSE_HEIGHT, 
+    TuSDK_PHILTRUM_THICKNESS, 
+    TuSDK_MOUTH_WIDTH, 
+    TuSDK_MOUTH_SIZE, 
+    TuSDK_LIPS_THICKNESS, 
+    TuSDK_CHIN_THICKNESS, 
+    TuSDK_PLASTIC_PARS_COUNT;
+}
